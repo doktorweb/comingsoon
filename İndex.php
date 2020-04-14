@@ -8,4 +8,6 @@ for ($i=0; $i < ; $i++) {
 }
 echo "Test"; //FIXME : Burayı Güncelleyelim
 echo "selam";
+
+echo "Deneme";
 ?>
