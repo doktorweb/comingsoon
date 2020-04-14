@@ -10,4 +10,5 @@ echo "Test"; //FIXME : Burayı Güncelleyelim
 echo "selam";
 
 echo "Deneme";
+echo "Feature Test1";
 ?>
